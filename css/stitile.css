@@ -6,12 +6,11 @@ body {
 }
 /*encabezado*/
 .site-header {
-    background-image: url(img/banner.jpg);
+    background-image: url(../img/banner.jpg);
     background-size: cover;
-    background-color: black;
     background-position: center;
     color: white;
-    padding: 4rem 0;
+    padding: 100px 0;
     text-align: center;
 }
 
